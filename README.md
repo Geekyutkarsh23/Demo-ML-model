@@ -1,4 +1,4 @@
-# Demo-ML-model
+# Fake-News_detection
 It is a demo ml model for fake news detection using decision making tree. 
 We have have attached the pdf file of ml model that created in jupyter notebook that has dataset as well as output attached.
 we also, attached raw code of our ml model.
